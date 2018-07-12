@@ -125,3 +125,7 @@ for(j in arr) {
     console.log("msg  = " + JSON.stringify(msg));
     console.log("type = " + typeof(msg.payload));
 }
+
+// Changes made for issue iss53
+// git checkout -b iss53
+
